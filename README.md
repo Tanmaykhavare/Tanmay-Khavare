@@ -2,7 +2,7 @@
 
 Welcome to the digital showcase of my work and skills! This sleek, minimalist portfolio website is designed to highlight my projects and abilities without unnecessary clutter.
 
-## Live Preview: https://tanmay-khavare.vercel.app/
+## Live Preview: https://abhijit-zende.vercel.app/
 
 ## 🎨 Features
 
@@ -46,3 +46,5 @@ This portfolio website was built using less code than it takes to make a cup of 
 
 ⭐️ If you like this portfolio, don't forget to give it a star!
 
+
+## Credits: https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2 
