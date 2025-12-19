@@ -35,8 +35,8 @@ Explore a curated selection of my best work, demonstrating my skills in:
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-- 📧 Email: abhijitzende75@gmail.com
-- 💼 LinkedIn: abhijit zende
+- 📧 Email: tanmaykhavare06@gmail.com
+- 💼 LinkedIn: tanmay khavare
 
 ## 🌈 Fun Fact
 
